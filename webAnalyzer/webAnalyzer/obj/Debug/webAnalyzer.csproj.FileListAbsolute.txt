@@ -1,0 +1,5 @@
+C:\Users\User - 2\source\repos\point_2d\webAnalyzer\webAnalyzer\obj\Debug\webAnalyzer.csproj.AssemblyReference.cache
+C:\Users\User - 2\source\repos\point_2d\webAnalyzer\webAnalyzer\obj\Debug\webAnalyzer.Form1.resources
+C:\Users\User - 2\source\repos\point_2d\webAnalyzer\webAnalyzer\obj\Debug\webAnalyzer.Properties.Resources.resources
+C:\Users\User - 2\source\repos\point_2d\webAnalyzer\webAnalyzer\obj\Debug\webAnalyzer.csproj.GenerateResource.cache
+C:\Users\User - 2\source\repos\point_2d\webAnalyzer\webAnalyzer\obj\Debug\webAnalyzer.csproj.CoreCompileInputs.cache

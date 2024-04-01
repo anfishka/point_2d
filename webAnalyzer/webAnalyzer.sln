@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webAnalyzer", "webAnalyzer\webAnalyzer.csproj", "{527EF48E-5617-4993-BC66-1F7A6C43C40C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{527EF48E-5617-4993-BC66-1F7A6C43C40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527EF48E-5617-4993-BC66-1F7A6C43C40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527EF48E-5617-4993-BC66-1F7A6C43C40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527EF48E-5617-4993-BC66-1F7A6C43C40C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F4736B-BC3C-4347-B830-E310404E89D8}
+	EndGlobalSection
+EndGlobal
